@@ -15,8 +15,11 @@ I am a Computer Science undergraduate student at UMT passionate about building s
 
 ## 🚀 Projects & Learning
 
-### 🎮 Game Dome
-* Developed a game launcher application that applies strong **Object-Oriented Programming (OOP)** concepts, the software development lifecycle, and user experience (UX) design principles.
+### ☕ Dirty Sales Cafe
+* Transforms "dirty" sales data into clean, actionable insights. 
+* Uses **Python, Pandas, and NumPy** for rigorous data preprocessing and cleaning. 
+* Features a **K-Nearest Neighbors (KNN)** model via Scikit-Learn to forecast future cafe revenue trends. 
+* Fully developed and tested inside **Jupyter Notebook**.
 
 ### 🔍 Current Areas of Interest & Focus
 * Exploring advanced Machine Learning pipelines
